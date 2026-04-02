@@ -32,6 +32,7 @@ retail-sales-analytics/
 ├── exploratory_analysis.py            # Python — EDA and data cleaning
 ├── business_queries.sqbpro              # SQL — KPI queries and channel analysis
 ├── retail_project.R         # R — ARIMA/ETS forecasting and A/B tests
+|──Retail Analysis Mini Project.twb    #Interactive Tableau Dashboard
 └── figures/                           # Saved charts and plots
     ├── monthly_revenue.png
     ├── revenue_by_category.png
