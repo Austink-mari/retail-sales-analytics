@@ -30,15 +30,15 @@ retail-sales-analytics/
 ├── README.md
 ├── theme_park_retail_sales.csv        # Dataset (~15,000 rows)
 ├── exploratory_analysis.py            # Python — EDA and data cleaning
-├── business_queries.sql               # SQL — KPI queries and channel analysis
-├── forecasting_and_ab_tests.R         # R — ARIMA/ETS forecasting and A/B tests
+├── business_queries.sqbpro              # SQL — KPI queries and channel analysis
+├── retail_project.R         # R — ARIMA/ETS forecasting and A/B tests
 └── figures/                           # Saved charts and plots
     ├── monthly_revenue.png
     ├── revenue_by_category.png
     ├── correlation_heatmap.png
     ├── channel_mix_over_time.png
-    ├── decomposition.png
-    └── forecast.png
+    ├── Decomp_TimeSeries.png.png
+    └── 6-monthforecastv1.png.png
 ```
 
 ---
